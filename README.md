@@ -1,6 +1,9 @@
 # cra-template-styledc-components
 
-My personal react cra-temaplate with styled components, global styles and some helpers components
+My personal npm package for react cra-temaplate with styled components, global styles and some helpers components
+
+## Usage
+`npx create-react-app [project name] --template cra-template-styled-components-tae`
 
 ## Feature
 - `styled-component` included
