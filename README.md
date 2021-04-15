@@ -1,6 +1,6 @@
 # cra-template-styledc-components
 
-My personal react cra-temaplte with styled components, global styles and some helpers components
+My personal react cra-temaplate with styled components, global styles and some helpers components
 
 ## Feature
 - `styled-component` included
