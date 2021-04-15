@@ -1,10 +1,18 @@
-# cra-template
+# cra-template-styledc-components
 
-This is the official base template for [Create React App](https://github.com/facebook/create-react-app).
+My personal react cra-temaplte with styled components, golbal styles and some helpers components
 
-If you don't specify a template (for example, `--template typescript`), this template will be used by default.
+## Feature
+- `styled-component` included
+-  My preferred project stuctures.
+-  GlobalStyles component for css reset and constansts
 
-For more information, please refer to:
+## Predefined useful components
+ - `MaxWidthWrapper`
+ - `Spacers`
+ -  `VisuallyHidden` - Improve accessibility, eg. visually hide form label.
+ -  `UnstyledButton` - Button base class
+ -  Empty `utils` component
 
-- [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
-- [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
+## Licence:
+- MIT
